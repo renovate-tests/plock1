@@ -2,6 +2,7 @@
   "name": "plock1",
   "version": "0.0.1",
   "dependencies": {
+    "@rarkins/noexist": "1.0.0",
     "chalk": "2.0.0"
   },
   "renovate": {}
